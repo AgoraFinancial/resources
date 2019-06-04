@@ -1,0 +1,274 @@
+E-mail and Internet companies use blockers to stop spam. Sometimes these programs block e-mail you want to get. We ask that you add us to your trusted list of senders, contacts or address book. All also known as "Whitelisting."
+
+If you do not see an email from us in your Inbox, our email may have mistakenly been sent to your spam folder.
+
+Please <strong>open your spam folder</strong> and if you find an email from us, open it and mark it as <strong>"Not spam"</strong>...
+
+Of course, every e-mail system is different. Below are more specific instructions for some of the more popular ones.
+
+<strong>Is your email client or spam filter not listed?</strong>
+
+One thing you can do no matter what e-mail system you’re using is add the address in the “From” line of your most recent subscription email to your address book.
+
+If messages continue to be sent to your junk folder contact your ISP or spam filter application support and ask how to whitelist the email. If you’re using some sort of spam filtering or blocking software yourself (in addition to what your ISP provides), we’ve also listed instructions on how to exempt your subscription from some of the more popular of those programs.
+
+Sending Address: If they ask for our address, give them the address in the “From” line of your most recent subscription email.
+
+Domain: If they need to know the domain we’re mailing from, tell them:
+xxxxx.com
+<h3>Popular Resources</h3>
+<ul>
+    <li><a href="#aol">Aol</a></li>
+    <li><a href="#bell">BellSouth / AT&amp;T Web Email</a></li>
+    <li><a href="#comcast">Comcast SmartZone</a></li>
+    <li><a href="#cox">Cox.net Email</a></li>
+    <li><a href="#earthlink">EarthLink</a></li>
+    <li><a href="#entourage">Entourage</a></li>
+    <li><a href="#gmail">Gmail</a></li>
+    <li><a href="#macmail">MacMail</a></li>
+    <li><a href="#mcafee">McAfee SpamKiller</a></li>
+    <li><a href="#msn">MSN</a></li>
+    <li><a href="#mozilla">Mozilla Thunderbird</a></li>
+    <li><a href="#norton">Norton AntiSpam</a></li>
+    <li><a href="#outlook">Outlook</a></li>
+    <li><a href="#outlook.com">Outlook.com (Formerly Hotmail)</a></li>
+    <li><a href="#road">Road Runner</a></li>
+    <li><a href="#spam">Spam Assassin</a></li>
+    <li><a href="#verizon">Verizon</a></li>
+    <li><a href="#windstream">Windstream</a></li>
+    <li><a href="#yahoo">Yahoo</a></li>
+</ul>
+<h3 id="aol">AOL</h3>
+<h6><strong>WebMail</strong></h6>
+<ul>
+    <li>Open the email.</li>
+    <li>Click on the sender's name and email address.</li>
+    <li>Click "Add to Address Book" in the window that appears.</li>
+    <li>Enter any additional information.</li>
+    <li>Click Save.</li>
+</ul>
+<h6><strong>AOL (version 9.0 or higher)</strong></h6>
+<ul>
+    <li>Copy the "from" address from the latest email (or you can copy the addresses listed above).</li>
+    <li>In the pop-up box, select Add.</li>
+    <li>Paste the copied address/type the address required in the Other email field.</li>
+    <li>Make the newly added address the "Primary email address" by checking the checkbox.</li>
+    <li>Select Save.</li>
+</ul>
+<h6><strong>AOL 8.0</strong></h6>
+<ul>
+    <li>Select Mail in the Menu on the top of the screen.</li>
+    <li>Select Mail Controls.</li>
+    <li>The Mail Control Screen would be displayed. Select Next.</li>
+    <li>Select Customize Mail Controls for this Screen Name and click Next.</li>
+    <li>You can select "Allow email from all AOL members, email addresses and domains" (allows all emails).</li>
+    <li>Select Next until the Save button shows up at the bottom.</li>
+    <li>Select Save.</li>
+</ul>
+<h6><strong>AOL 7.0</strong></h6>
+<ul>
+    <li>Select Mail in the Menu on the top of the screen.</li>
+    <li>Select Mail Controls.</li>
+    <li>The Mail Control Screen would be displayed. Select Next.</li>
+    <li>Select Customize Mail Controls for this Screen Name and click Next.</li>
+    <li>In the exclusion and inclusion parameters, include the domain xxxxx.com.</li>
+</ul>
+<h3 id="bell">BellSouth / AT&amp;T Web Email</h3>
+<ol>
+    <li>Open your mailbox.</li>
+    <li>Select Options on the top right hand side &gt; Mail Options &gt; Filters &gt; Add Filter.</li>
+    <li>Select Filters.</li>
+    <li>Click "Add Filter".</li>
+    <li>In the top row, labeled From Header, select contains from the pull down menu. Enter the address in the text box next to the pull down menu.
+<strong>Example:</strong> You can either give a specific email address or use @xxxxx.com or *xxxxx.com to whitelist the domain.</li>
+    <li>Move down to the bottom where there is the option Move the message to. Select Inbox from the drop-down menu.</li>
+    <li>Select the Add Filter button once again.</li>
+</ol>
+<h3 id="comcast">Comcast SmartZone</h3>
+<ol>
+    <li>Click Address Book.</li>
+    <li>Click "New" and choose "New Contact".</li>
+    <li>Add the email address and any additional information.</li>
+    <li>Click Save.</li>
+</ol>
+<h3 id="cox">Cox.net Email</h3>
+<ol>
+    <li>Go to WebMail Inbox window.</li>
+    <li>Click "Preferences".</li>
+    <li>Under General Email Preferences, click Blocked Senders.</li>
+    <li>Type in the sender or domain you wish to allow in the Exceptions List.</li>
+    <li>Click Add.</li>
+    <li>Click Save.</li>
+</ol>
+<h3 id="earthlink">EarthLink</h3>
+<ol>
+    <li>Open the Address Book.</li>
+    <li>Click <strong>Add</strong>.</li>
+    <li>Enter your contact's domain.</li>
+    <li>Click <strong>Save</strong>.</li>
+</ol>
+<h3 id="entourage">Entourage</h3>
+<ol>
+    <li>Open the email.</li>
+    <li>Right-click the sender's email address.</li>
+    <li>Select "Add to Address Book" in the short-cut menu.</li>
+    <li>Verify the sender's contact details.</li>
+    <li>Click Save.</li>
+</ol>
+<h3 id="gmail">Gmail</h3>
+To ensure that you receive emails in your inbox, you can add the email address to your contact list. If one of our mails has been moved to the spam folder, you can mark it "Not Spam" to whitelist it.
+<ol>
+    <li>Select contacts from the options on the left side of the Gmail Inbox.</li>
+    <li>Select Create Contact on the top menu.</li>
+    <li>Enter the email address in the primary email box.</li>
+    <li>Select Save.</li>
+</ol>
+<h3 id="macmail">MacMail</h3>
+<ol>
+    <li>Open the email.</li>
+    <li>Ctrl-click the sender's email address and select "Open in Address Book."</li>
+    <li>Verify the sender's contact details.</li>
+    <li>Click Save.</li>
+</ol>
+<h3 id="mcafee">McAfee SpamKiller</h3>
+<ol>
+    <li>Click <strong>Friends</strong>.</li>
+    <li>Click <strong>Add</strong>.</li>
+    <li>Enter your contact's domain.</li>
+    <li>Click <strong>OK</strong>.</li>
+</ol>
+<h3 id="msn">MSN</h3>
+<ol>
+    <li>Select Settings: Email | Junk e-mail (bottom left, just above Calendar).</li>
+    <li>From the E-mail settings screen, select Junk E-mail Guard.</li>
+    <li>Select Safe List.</li>
+    <li>Enter the email address.
+<strong>Example:</strong> You can either enter a specific email address or use *xxxxx.com or @xxxxx.com to whitelist the domain.</li>
+    <li>Select Add.</li>
+</ol>
+<h3 id="mozilla">Mozilla Thunderbird</h3>
+<ol>
+    <li>Check if your contact's email is in your Junk folder, right-click on the email and choose "Mark As Not Junk".</li>
+    <li>Click <strong>Address Book</strong>.</li>
+    <li>Make sure that the Personal Address Book is highlighted.</li>
+    <li>Click <strong>New Card</strong>, the New Card window will display.</li>
+    <li>Under the Contact tab, copy your contact's "From" address and paste it into the Email dialog box.</li>
+    <li>Click <strong>OK</strong>.</li>
+</ol>
+<h3 id="norton">Norton AntiSpam</h3>
+AntiSpam works along with Outlook, Outlook Express, Netscape and Yahoo, MSN/Hotmail to block spam mails before it reaches your inbox. To make sure emails reach you, you can add us to your Personal Friends list or Global Friends list. Here is how you can do that:
+<ol>
+    <li>Start Norton AntiSpam, select <strong>Status &amp; Settings</strong> tab.</li>
+    <li>Select AntiSpam.</li>
+    <li>Select <strong>Configure</strong> button - right hand side bottom of the screen.</li>
+    <li>Select <strong>Allowed List</strong> tab - second tab on the list of tabs.</li>
+    <li>Select <strong>Add</strong>.</li>
+    <li>Enter email address in the Email address box.</li>
+    <li>Select <strong>OK</strong>.</li>
+</ol>
+<h3 id="outlook">Outlook</h3>
+<strong>For 2003, 2007 and Express - </strong>Without an example email address in your inbox:
+<ol>
+    <li>Select Actions from the toolbar at the top of the screen.</li>
+    <li>Select Junk E-mail.</li>
+    <li>Select Junk E-mail Options...</li>
+    <li>Click the Safe Sender tab.</li>
+    <li>Click <strong>Add</strong>.</li>
+    <li>Type in the email address you wish to add to your safe sender list.</li>
+    <li>Click <strong>OK</strong>.</li>
+</ol>
+<strong>For 2003, 2007 and Express - </strong>With an example email address in your inbox:
+<ol>
+    <li>Open the email.</li>
+    <li>In the Toolbar options at the top, click the<strong> Safe Lists</strong> drop-down.
+<strong>Note: </strong>This is located in the "Junk Email" section</li>
+    <li>Select "Add sender to Address book".</li>
+    <li>Click <strong>OK</strong>.</li>
+</ol>
+<strong>For 2003, 2007 and Express </strong>- To white list an entire domain:
+<ol>
+    <li>Open the email.</li>
+    <li>In the Toolbar options at the top, click the <strong>Safe Lists</strong> drop-down.
+<strong>Note: </strong>This is located in the "Junk Email" section</li>
+    <li>Select "Add Sender's Domain (@example.com) to Safe Senders List.</li>
+    <li>Click<strong> OK</strong>.</li>
+</ol>
+<strong>For 2010</strong>
+<ol>
+    <li>In Outlook, go to the <strong>Home</strong> tab.</li>
+    <li>Click the <strong>Junk</strong> button.</li>
+    <li>Choose "Junk E-Mail Options" from the drop-down list.</li>
+    <li>Go to the <strong>Safe Senders</strong> tab.</li>
+    <li>Type in either the email address or the domain name you wish to add.</li>
+    <li>Click <strong>OK</strong>.</li>
+</ol>
+<b>For 2013</b>
+<ol>
+    <li>In Outlook, go to the Home tab.</li>
+    <li>Click <b>Junk </b>&gt; <b>Junk Email Options</b>.</li>
+    <li>Select the <b>Safe Senders</b> Tab and click <b>Add</b>.</li>
+    <li>In the Add address or domain box, enter the email address or the domain name you want to whitelist.</li>
+    <li>Click <b>OK</b> and close the window.</li>
+</ol>
+<strong>Express</strong>
+<ol>
+    <li>In Outlook, go to the <strong>Tools</strong> menu.</li>
+    <li>Select "Address Book".</li>
+    <li>Click <strong>New</strong> and select <strong>New Contact </strong>from the drop-down menu.</li>
+    <li>Type in email address and include any details you want.</li>
+    <li>Click<strong> OK</strong>.</li>
+</ol>
+<h3 id="outlook.com">Outlook.com (Formerly Hotmail)</h3>
+<ol>
+    <li>Open your Outlook mailbox.</li>
+    <li>Select Options from the top right (next to the question mark).</li>
+    <li>Select More options &gt; Safe and blocked senders (under Preventing junk email) &gt; Safe senders.</li>
+    <li>In the space provided, enter the address.
+<strong>Example:</strong> You can either enter a specific email address or use *xxxxx.com or @xxxxx.com to whitelist the domain.</li>
+    <li>Select Add to list.</li>
+    <li>Ensure the safe mailing lists box has the address you entered, and select OK.</li>
+</ol>
+<h3 id="road">Road Runner</h3>
+Adding an email address to the safe sender list will add the email to your inbox and future emails will be delivered to the inbox.
+<ol>
+    <li>Open your Road Runner mailbox.</li>
+    <li>Open your Junk Mail folder.</li>
+    <li>Select the email that includes the e-mail address you would like to add as a safe sender.</li>
+    <li>Click "Mark as Not Spam".</li>
+</ol>
+<h3 id="spam">Spam Assassin</h3>
+<ol>
+    <li>Find the spam assassin folder on your hard drive, and open it.</li>
+    <li>There would be a file named user_prefs. Open it with a text editor (such as Notepad).</li>
+    <li>If there is no such file, create it, instructions are available at this <a href="https://spamassassin.taint.org/doc/Mail_SpamAssassin_Conf.html" target="_blank" rel="noopener">website</a>.</li>
+    <li>Make a new line in the file. On that line, enter whitelist_from, followed by the address that you wish to whitelist. To whitelist the domain, enter @xxxxx.com.</li>
+    <li>Save and close the file.</li>
+</ol>
+<h3 id="verizon">Verizon</h3>
+<ol>
+    <li>Open your Inbox.</li>
+    <li>Click <strong>Options</strong>.</li>
+    <li>Click <strong>Block Senders</strong>.</li>
+    <li>Locate the “Safe List”.</li>
+    <li>Enter your contact's domain.</li>
+    <li>Click <strong>OK</strong>.</li>
+</ol>
+<h3 id="windstream">Windstream</h3>
+<ol>
+    <li>Click the<strong> Settings</strong> tab.</li>
+    <li>Click <strong>Messages</strong>.</li>
+    <li>Click <strong>Allow and Block Messages</strong>.</li>
+    <li>Select "Advanced Block Senders".</li>
+    <li>In the Allowed Senders and Domains area type the senders and domains you want to allow.</li>
+    <li>Click <strong>OK</strong>.</li>
+</ol>
+<h3 id="yahoo">Yahoo</h3>
+In Yahoo Mail, your Contacts list is your whitelist. To add the From Address to your Yahoo Contacts:
+<ol>
+    <li>Open your Yahoo mailbox.</li>
+    <li>Click the address book icon under the Yahoo! Mail logo. When you roll your mouse over it, it will say Contacts.</li>
+    <li>Click "New Contact".</li>
+    <li>Fill in the fields of your Contact.</li>
+    <li>Click <strong>Save</strong>.</li>
+</ol>
+Mail from this sender should now be delivered to your Inbox.
